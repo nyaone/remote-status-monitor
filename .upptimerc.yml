@@ -4,35 +4,47 @@ repo: remote-status-monitor
 sites:
   # 服务主体
   - name: Misskey
+    slug: misskey
     url: https://nya.one
   - name: Matrix
+    slug: matrix
     url: https://matrix.nya.one/_matrix/client/versions
   - name: 文件存储
+    slug: object-storage
     url: https://sh.nfs.pub/nyaone/ff02042e-524e-48e8-bb27-17621d96b13a.png
   - name: 搜索引擎
+    slug: search-engine
     url: https://meilisearch.nya.one
   - name: 媒体代理
+    slug: media-proxy
     url: https://o.n1mp.org
     expectedStatusCodes:
       - 400
   # 周边生态
   - name: 喵家中继
+    slug: relay
     url: https://relay.nya.one/actor
   - name: 邮件系统
+    slug: mail-system
     url: mx.nya.one
     port: 25
     check: "tcp-ping"
   # 辅助功能
   - name: API Wrap
+    slug: api-wrap
     url: https://api.nya.one
   - name: 备用域名
+    slug: backup-domain
     url: https://n1.homes
   # 开发环境
   - name: Misskey (开发环境)
+    slug: misskey-dev
     url: https://dev.nya.one
   - name: Matrix (开发环境)
+    slug: matrix-dev
     url: https://dev-matrix.nya.one/_matrix/client/versions
   - name: API Wrap (开发环境)
+    slug: api-wrap-dev
     url: https://dev-api.nya.one
 
 assignees: # Users to assign downtime issues (optional)
