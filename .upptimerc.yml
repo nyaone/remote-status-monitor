@@ -115,3 +115,7 @@ i18n:
   duration1Y: 一年
   durationAll: 全部
   locale: zh-CN
+
+commitMessages:
+  commitAuthorName: "Nya Cat"
+  commitAuthorEmail: "95197277+nya-cat@users.noreply.github.com"
