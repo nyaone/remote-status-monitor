@@ -19,7 +19,7 @@ sites:
   - name: 喵家中继
     url: https://relay.nya.one/actor
   - name: 邮件系统
-    url: 7302d3bb.ovh.node.public.nyawork.net
+    url: mx.nya.one
     port: 25
     check: "tcp-ping"
   # 辅助功能
