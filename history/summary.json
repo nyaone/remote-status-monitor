@@ -22,18 +22,20 @@
     "url": "https://matrix.nya.one/_matrix/client/versions",
     "icon": "https://status.nya.one/icons/comments.svg",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 4783,
-    "timeWeek": 644,
-    "timeMonth": 644,
-    "timeYear": 644,
-    "dailyMinutesDown": {}
+    "time": 1494,
+    "timeDay": 7817,
+    "timeWeek": 1494,
+    "timeMonth": 1494,
+    "timeYear": 1494,
+    "dailyMinutesDown": {
+      "2024-10-20": 0
+    }
   },
   {
     "name": "文件存储",
