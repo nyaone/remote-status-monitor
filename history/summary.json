@@ -4,36 +4,39 @@
     "url": "https://nya.one",
     "icon": "https://status.nya.one/icons/network-connection.svg",
     "slug": "misskey",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 303,
     "timeDay": 165,
     "timeWeek": 332,
     "timeMonth": 303,
     "timeYear": 303,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 7
+    }
   },
   {
     "name": "Matrix",
     "url": "https://matrix.nya.one/_matrix/client/versions",
     "icon": "https://status.nya.one/icons/comments.svg",
     "slug": "matrix",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 1028,
     "timeDay": 471,
     "timeWeek": 850,
     "timeMonth": 1028,
     "timeYear": 1028,
     "dailyMinutesDown": {
+      "2024-10-30": 6,
       "2024-10-29": 18,
       "2024-10-28": 9,
       "2024-10-20": 20
@@ -62,18 +65,20 @@
     "url": "https://meilisearch.nya.one",
     "icon": "https://status.nya.one/icons/search.svg",
     "slug": "search-engine",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 300,
     "timeDay": 148,
     "timeWeek": 359,
     "timeMonth": 300,
     "timeYear": 300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 4
+    }
   },
   {
     "name": "媒体代理",
@@ -98,18 +103,20 @@
     "url": "https://relay.nya.one/actor",
     "icon": "https://status.nya.one/icons/nodes.svg",
     "slug": "relay",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 316,
     "timeDay": 159,
     "timeWeek": 390,
     "timeMonth": 316,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 3
+    }
   },
   {
     "name": "邮件系统",
@@ -188,9 +195,9 @@
     "url": "https://dev-matrix.nya.one/_matrix/client/versions",
     "icon": "https://status.nya.one/icons/comments.svg",
     "slug": "matrix-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -199,7 +206,9 @@
     "timeWeek": 280,
     "timeMonth": 225,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   },
   {
     "name": "API Wrap (开发环境)",
