@@ -50,14 +50,6 @@ sites:
     slug: misskey-dev
     icon: https://status.nya.one/icons/network-connection.svg
     url: https://dev.nya.one
-  - name: Matrix (开发环境)
-    slug: matrix-dev
-    icon: https://status.nya.one/icons/comments.svg
-    url: https://dev-matrix.nya.one/_matrix/client/versions
-  - name: API Wrap (开发环境)
-    slug: api-wrap-dev
-    icon: https://status.nya.one/icons/plug-2.svg
-    url: https://dev-api.nya.one
 
 assignees: # Users to assign downtime issues (optional)
   - Candinya
