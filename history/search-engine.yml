@@ -1,7 +1,7 @@
 url: https://meilisearch.nya.one
-status: up
-code: 200
-responseTime: 551
-lastUpdated: 2024-11-17T23:08:22.096Z
+status: down
+code: 502
+responseTime: 109
+lastUpdated: 2024-11-18T07:35:18.224Z
 startTime: 2024-10-15T12:11:04.318Z
 generator: Upptime <https://github.com/upptime/upptime>
