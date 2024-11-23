@@ -1,7 +1,7 @@
 url: https://matrix.nya.one/_matrix/client/versions
-status: down
-code: 502
-responseTime: 17904
-lastUpdated: 2024-11-23T02:44:49.163Z
+status: up
+code: 200
+responseTime: 136
+lastUpdated: 2024-11-23T03:16:49.978Z
 startTime: 2024-10-15T11:50:55.263Z
 generator: Upptime <https://github.com/upptime/upptime>
