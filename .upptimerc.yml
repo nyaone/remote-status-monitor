@@ -7,10 +7,10 @@ sites:
     slug: misskey
     icon: https://status.nya.one/icons/network-connection.svg
     url: https://nya.one
-#  - name: Matrix
-#    slug: matrix
-#    icon: https://status.nya.one/icons/comments.svg
-#    url: https://matrix.nya.one/_matrix/client/versions
+  - name: Matrix
+    slug: matrix
+    icon: https://status.nya.one/icons/comments.svg
+    url: https://matrix.nya.one/_matrix/client/versions
   - name: 文件存储
     slug: object-storage
     icon: https://status.nya.one/icons/folder-cloud.svg
