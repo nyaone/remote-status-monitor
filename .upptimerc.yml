@@ -15,10 +15,6 @@ sites:
     slug: object-storage
     icon: https://status.nya.one/icons/folder-cloud.svg
     url: https://sh.nfs.pub/nyaone/ff02042e-524e-48e8-bb27-17621d96b13a.png
-  - name: 搜索引擎
-    slug: search-engine
-    icon: https://status.nya.one/icons/search.svg
-    url: https://meilisearch.nya.one
   - name: 媒体代理
     slug: media-proxy
     icon: https://status.nya.one/icons/transactions.svg
