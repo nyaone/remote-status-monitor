@@ -126,9 +126,9 @@
     "url": "mx.nya.one",
     "icon": "https://status.nya.one/icons/mail.svg",
     "slug": "mail-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -137,7 +137,9 @@
     "timeWeek": 37,
     "timeMonth": 36,
     "timeYear": 36,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 0
+    }
   },
   {
     "name": "API Wrap",
