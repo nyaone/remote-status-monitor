@@ -64,19 +64,19 @@
     "url": "https://sh.nfs.pub/nyaone/ff02042e-524e-48e8-bb27-17621d96b13a.png",
     "icon": "https://status.nya.one/icons/folder-cloud.svg",
     "slug": "object-storage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 252,
-    "timeWeek": 172,
-    "timeMonth": 186,
-    "timeYear": 206,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 207,
+    "timeDay": 295,
+    "timeWeek": 193,
+    "timeMonth": 191,
+    "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-06-25": 0
+      "2025-06-25": 23
     }
   },
   {
