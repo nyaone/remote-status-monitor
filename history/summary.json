@@ -64,9 +64,9 @@
     "url": "https://sh.nfs.pub/nyaone/ff02042e-524e-48e8-bb27-17621d96b13a.png",
     "icon": "https://status.nya.one/icons/folder-cloud.svg",
     "slug": "object-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 172,
     "timeMonth": 186,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-25": 0
+    }
   },
   {
     "name": "媒体代理",
